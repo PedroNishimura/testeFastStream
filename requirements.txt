@@ -1,0 +1,7 @@
+faststream
+pydantic
+confluent-kafka
+faststream[cli]
+kafka-python
+uvicorn
+pytest
